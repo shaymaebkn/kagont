@@ -128,6 +128,9 @@ footer .footer-middle .footer-middle-item-wrapper .footer-middle-item .fm-item-c
   flex-wrap: wrap;
 }
 
+
+
+
 .scholar-single-section .section-wrapper .section-inner, .gallery-section .grid .grid-item .grid-inner, .shop-product-wrap .product-item .product-thumb,
 .shop-product-wrap .product-list-item .product-thumb, .shop-single .review .review-content .description .post-item .post-content ul li, .shop-single .review .review-content .review-showing .client-review .review-form .review-title h5, .shop-single .product-details .post-content form .select-product select, .shop-single .product-details .post-content form .select-product, .shop-single .product-details .product-thumb .gallery-top, .shop-cart .section-wrapper .cart-bottom .shiping-box .calculate-shiping .outline-select select, .shop-cart .section-wrapper .cart-bottom .shiping-box .calculate-shiping .outline-select, .post-item-2 .post-inner .post-content .meta-post p span, .post-item-2 .post-inner .post-content .qute-content blockquote, .post-item-2 .post-inner .post-content .more-com .text-btn, .post-item-2 .post-inner .post-thumb, .post-item-2 .post-inner .post-thumb-container, .event-gift-section .image-part, .about-section .about-image .play-btn i, .about-section .about-image, .menu-item-has-children > a, .header-bar, .header-wrapper .menu-area .cart-ticket .cart-icon .cart-content .cart-list .cart-item .cart-inner .cart-details, .header-wrapper .menu-area .cart-ticket .cart-icon a, .header-wrapper .menu-area .cart-ticket .cart-icon, .paginations ul li a, .post-item .post-inner .post-content .meta-post p span, .post-item .post-inner .post-thumb, .scrollToTop i, .relative, .lab-btn, .aside-bg, .widget.widget-search .search-wrapper, .pricing-item .pricing-inner .pricing-content .get-ticket a ul li.icon, .pricing-item .pricing-inner .pricing-content .facilites .facility-item span i, .schedule-pack .schedule-list .accordion-item .accordion-header .accordion-button .accor-header-inner .accor-thumb, .speaker-item-2 .speaker-inner .speaker-content .speaker-shape, .speaker-item .speaker-inner .speaker-thumb, .page-header .page-header-content-area ul li a, .page-header .page-header-content-area h4, .page-header .page-header-content-area, .page-header, .section-header h2 {
   position: relative;
@@ -208,6 +211,7 @@ footer .footer-middle .footer-middle-item-wrapper .footer-middle-item .fm-item-c
 .header-wrapper .menu-area .cart-ticket .cart-icon a span, .pricing-item .pricing-inner .pricing-content .get-ticket a ul li.icon, .schedule-pack .schedule-list .accordion-item .accordion-collapse .accordion-body, .schedule-pack .schedule-list .accordion-item .accordion-header .accordion-button, .schedule-pack h5 {
   background-color: #fff;
 }
+
 
 .widget .widget-header h5::before, .shop-single .product-details .post-content form .select-product i, .cart-plus-minus .inc.qtybutton, .cart-plus-minus .dec.qtybutton, .shop-cart .section-wrapper .cart-bottom .shiping-box .calculate-shiping button, .shop-cart .section-wrapper .cart-bottom .shiping-box .calculate-shiping .outline-select .select-icon, .shop-cart .section-wrapper .cart-top table thead tr th, .fore-zero .section-wrapper .zero-item .zero-content .lab-btn, .pricing-item .pricing-inner .pricing-content .get-ticket a:hover ul .icon {
   background: #F2B705;
